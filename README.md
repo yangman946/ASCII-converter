@@ -7,6 +7,8 @@
 A python script that can convert static images into ASCII or convert your camera feed into ASCII.
 Refer to `main.py` for instructions.
 
+[demo](https://www.youtube.com/watch?v=e-bmcTSx2I0&ab_channel=cyang946)
+
 ## Cloning and running
 
 - Cloning: `https://github.com/yangman946/ASCII-converter.git`
